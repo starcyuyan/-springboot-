@@ -1,15 +1,26 @@
 # -springboot-
 基于springboot的游戏商城管理系统-完整免费代码
+
 完整代码免费可以加qq 2157041595
-这里由于代码超过100mb,不能上传到github,所以放在qq群里了
+
+这里由于代码超过100mb,不能上传到github,所以放在qq群里了，记得下载github上面的数据库文件
+
 开发工具:idea
+
 数据库:mysql
+
 开发系统:Windows10
+
 JDK版本: Java JDK1.8
+
 开发工具:IDEA
+
 数据库版本: mysql5.7
+
 数据库可视化工具: datagrip
+
 服务器:  tomcat
+
 Maven包：Maven3.3.9
 
 页面截图：
